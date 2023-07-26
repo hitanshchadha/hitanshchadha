@@ -1,7 +1,9 @@
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="40%" width="40%"> 
 <img src="header.svg" width="600" height="300">
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/hitansh-chadha-07ba5219b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitanshchadha" height="30" width="40" /></a>
 <a href="https://instagram.com/hitansh573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitansh573" height="30" width="40" /></a>
