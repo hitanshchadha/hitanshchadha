@@ -1,5 +1,5 @@
 <img src="header.svg" width="600" height="300">
-<h3 align="Left">A passionate frontend developer</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
