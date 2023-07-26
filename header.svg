@@ -3,6 +3,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
+        html{
+        background-color:black;}
        h1{
         color:white;
         text-align:center;}
